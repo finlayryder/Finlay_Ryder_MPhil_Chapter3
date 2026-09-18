@@ -388,7 +388,7 @@ carpinteria_web <- carpinteria_web %>%
   rename(res_stage_id = stage_id)
 
 
-
+carp_nodes_full <- read.csv("carp_nodes_full.csv")
   
 
 ```
