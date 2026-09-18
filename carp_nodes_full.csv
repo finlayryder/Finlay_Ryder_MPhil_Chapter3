@@ -1,0 +1,374 @@
+"","Taxonomy","NodeID","SpeciesID","StageID","Stage","Species.StageID","Common_Name","Interaction","Genus","X","taxon","kingdom","phylum","class","order","family","key","extinction_p"
+"1","Acanthogobius flavimanus",1,1,1,"adults","1.1","Yellow-fin Goby","predacious","Acanthogobius",37,"Acanthogobius","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"2","Acanthogobius flavimanus",2,1,2,"adults","1.2","Yellow-fin Goby","parasite_consumption","Acanthogobius",37,"Acanthogobius","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"3","Acanthogobius flavimanus",3,1,3,"adults","1.3","Yellow-fin Goby","parasitic","Acanthogobius",37,"Acanthogobius","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"4","Acanthoparyphium spinulosum",4,2,1,"adults","2.1","Acanthoparyphium spinulosum","parasitic","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"5","Acanthoparyphium spinulosum",5,2,2,"adults","2.2","Acanthoparyphium spinulosum","parasite_consumption","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"6","Acanthoparyphium spinulosum",6,2,3,"cercaria","2.3","Acanthoparyphium spinulosum","parasite_consumption","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"7","Acanthoparyphium spinulosum",7,2,4,"cercaria","2.4","Acanthoparyphium spinulosum","predacious","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"8","Acanthoparyphium spinulosum",8,2,5,"metacercaria","2.5","Acanthoparyphium spinulosum","parasitic","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"9","Acanthoparyphium spinulosum",9,2,6,"metacercaria","2.6","Acanthoparyphium spinulosum","parasite_consumption","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"10","Acanthoparyphium spinulosum",10,2,7,"parthenitae","2.7","Acanthoparyphium spinulosum","parasite_consumption","Acanthoparyphium",43,"Acanthoparyphium","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"11","Accipiter cooperi",11,3,1,"adults","3.1","Cooper's Hawk","predacious","Accipiter",39,"Accipiter","Animalia","Chordata","Aves","Accipitriformes","Accipitridae","Aves",0.12
+"12","Accipiter cooperi",12,3,2,"adults","3.2","Cooper's Hawk","parasite_consumption","Accipiter",39,"Accipiter","Animalia","Chordata","Aves","Accipitriformes","Accipitridae","Aves",0.12
+"13","Accipiter cooperi",13,3,3,"adults","3.3","Cooper's Hawk","parasitic","Accipiter",39,"Accipiter","Animalia","Chordata","Aves","Accipitriformes","Accipitridae","Aves",0.12
+"14","Actitis macularia",14,4,1,"adults","4.1","Spotted Sandpiper","predacious","Actitis",11,"Actitis","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"15","Actitis macularia",15,4,2,"adults","4.2","Spotted Sandpiper","parasite_consumption","Actitis",11,"Actitis","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"16","Actitis macularia",16,4,3,"adults","4.3","Spotted Sandpiper","parasitic","Actitis",11,"Actitis","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"17","Aechmophorus occidentalis",17,5,1,"adults","5.1","Western Grebe","predacious","Aechmophorus",18,"Aechmophorus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"18","Aechmophorus occidentalis",18,5,2,"adults","5.2","Western Grebe","parasite_consumption","Aechmophorus",18,"Aechmophorus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"19","Aechmophorus occidentalis",19,5,3,"adults","5.3","Western Grebe","parasitic","Aechmophorus",18,"Aechmophorus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"20","Aedes taeniorhynchus",20,6,1,"adults","6.1","Black Salt Marsh Mosquito","parasitic","Aedes",53,"Aedes","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"21","Aedes taeniorhynchus",21,6,2,"adults","6.2","Black Salt Marsh Mosquito","parasite_consumption","Aedes",53,"Aedes","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"22","Aedes taeniorhynchus",22,6,3,"larvae","6.3","Black Salt Marsh Mosquito","predacious","Aedes",53,"Aedes","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"23","Anas americana",23,7,1,"adults","7.1","American Wigeon","parasite_consumption","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"24","Anas americana",24,7,2,"adults","7.2","American Wigeon","predacious","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"25","Anas americana",25,7,3,"adults","7.3","American Wigeon","parasitic","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"26","Anas crecca",26,8,1,"adults","8.1","Green-winged Teal","parasite_consumption","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"27","Anas crecca",27,8,2,"adults","8.2","Green-winged Teal","predacious","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"28","Anas crecca",28,8,3,"adults","8.3","Green-winged Teal","parasitic","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"29","Anas cyanoptera",29,9,1,"adults","9.1","Cinnamon Teal","parasite_consumption","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"30","Anas cyanoptera",30,9,2,"adults","9.2","Cinnamon Teal","predacious","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"31","Anas cyanoptera",31,9,3,"adults","9.3","Cinnamon Teal","parasitic","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"32","Anas discors",32,10,1,"adults","10.1","Blue-winged Teal","parasite_consumption","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"33","Anas discors",33,10,2,"adults","10.2","Blue-winged Teal","predacious","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"34","Anas discors",34,10,3,"adults","10.3","Blue-winged Teal","parasitic","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"35","Anas platyrhynchos",35,11,1,"adults","11.1","Mallard","parasite_consumption","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"36","Anas platyrhynchos",36,11,2,"adults","11.2","Mallard","predacious","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"37","Anas platyrhynchos",37,11,3,"adults","11.3","Mallard","parasitic","Anas",71,"Anas","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"38","Apicomplexa",38,12,1,"adults","12.1","apicomplexan-spionid","parasitic","Apicomplexa",NA,NA,NA,NA,NA,NA,NA,"Apicomplexa",0.1
+"39","Apicomplexa",39,12,2,"adults","12.2","apicomplexan-spionid","parasite_consumption","Apicomplexa",NA,NA,NA,NA,NA,NA,NA,"Apicomplexa",0.1
+"40","Ardea herodius",40,13,1,"adults","13.1","Great Blue Heron","predacious","Ardea",12,"Ardea","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"41","Ardea herodius",41,13,2,"adults","13.2","Great Blue Heron","parasite_consumption","Ardea",12,"Ardea","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"42","Ardea herodius",42,13,3,"adults","13.3","Great Blue Heron","parasitic","Ardea",12,"Ardea","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"43","Argulus ",43,14,1,"adults","14.1","Argulus","parasitic","Argulus",48,"Argulus","Animalia","Arthropoda","Branchiura","Arguloida","Argulidae","Branchiura",0.2
+"44","Atherinops affinis",44,15,1,"adults","15.1","Topsmelt","parasite_consumption","Atherinops",80,"Atherinops","Animalia","Chordata","Teleostei","Atheriniformes","Atherinopsidae","Teleostei",0.2
+"45","Atherinops affinis",45,15,2,"adults","15.2","Topsmelt","predacious","Atherinops",80,"Atherinops","Animalia","Chordata","Teleostei","Atheriniformes","Atherinopsidae","Teleostei",0.2
+"46","Atherinops affinis",46,15,3,"adults","15.3","Topsmelt","parasitic","Atherinops",80,"Atherinops","Animalia","Chordata","Teleostei","Atheriniformes","Atherinopsidae","Teleostei",0.2
+"47","Austrobilharzia sp.",47,16,1,"adults","16.1","Austrobilharzia sp.","parasitic","Austrobilharzia",61,"Austrobilharzia","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Schistosomatidae","Acentrosomata",0.2
+"48","Austrobilharzia sp.",48,16,2,"adults","16.2","Austrobilharzia sp.","parasite_consumption","Austrobilharzia",61,"Austrobilharzia","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Schistosomatidae","Acentrosomata",0.2
+"49","Austrobilharzia sp.",49,16,3,"cercaria","16.3","Austrobilharzia sp.","predacious","Austrobilharzia",61,"Austrobilharzia","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Schistosomatidae","Acentrosomata",0.2
+"50","Austrobilharzia sp.",50,16,4,"parthenitae","16.4","Austrobilharzia sp.","parasite_consumption","Austrobilharzia",61,"Austrobilharzia","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Schistosomatidae","Acentrosomata",0.2
+"51","Baylisascaris procyonis",51,17,1,"adults","17.1","Baylisascaris procyonis","parasitic","Baylisascaris",47,"Baylisascaris","Animalia","Nematoda","Chromadorea","Rhabditida","Ascarididae","Chromadorea",0.2
+"52","Bucephala albeola",52,18,1,"adults","18.1","Bufflehead","predacious","Bucephala",7,"Bucephala","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"53","Bucephala albeola",53,18,2,"adults","18.2","Bufflehead","parasite_consumption","Bucephala",7,"Bucephala","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"54","Bucephala albeola",54,18,3,"adults","18.3","Bufflehead","parasitic","Bucephala",7,"Bucephala","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"55","Butorides virescens",55,19,1,"adults","19.1","Green Heron","predacious","Butorides",28,"Butorides","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"56","Butorides virescens",56,19,2,"adults","19.2","Green Heron","parasite_consumption","Butorides",28,"Butorides","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"57","Butorides virescens",57,19,3,"adults","19.3","Green Heron","parasitic","Butorides",28,"Butorides","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"58","Calidris alpina",58,20,1,"adults","20.1","Dunlin","predacious","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"59","Calidris alpina",59,20,2,"adults","20.2","Dunlin","parasite_consumption","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"60","Calidris alpina",60,20,3,"adults","20.3","Dunlin","parasitic","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"61","Calidris mauri",61,21,1,"adults","21.1","Western Sandpiper","predacious","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"62","Calidris mauri",62,21,2,"adults","21.2","Western Sandpiper","parasite_consumption","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"63","Calidris mauri",63,21,3,"adults","21.3","Western Sandpiper","parasitic","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"64","Calidris minutilla",64,22,1,"adults","22.1","Least Sandpiper","predacious","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"65","Calidris minutilla",65,22,2,"adults","22.2","Least Sandpiper","parasite_consumption","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"66","Calidris minutilla",66,22,3,"adults","22.3","Least Sandpiper","parasitic","Calidris",9,"Calidris","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"67","Carcinonemertes sp.",67,23,1,"adults","23.1","Carcinonemertes sp.","parasitic","Carcinonemertes",52,"Carcinonemertes","Animalia","Nemertea","Neonemertea","Monostilifera","Carcinonemertidae","Neonemertea",0.2
+"68","Carcinonemertes sp.",68,23,2,"adults","23.2","Carcinonemertes sp.","parasite_consumption","Carcinonemertes",52,"Carcinonemertes","Animalia","Nemertea","Neonemertea","Monostilifera","Carcinonemertidae","Neonemertea",0.2
+"69","Carinoma mutabilis",69,24,1,"adults","24.1","Carinoma mutabilis","predacious","Carinoma",41,"Carinoma","Animalia","Nemertea","Palaeonemertea",NA,"Carinomidae","Palaeonemertea",0.2
+"70","Carinoma mutabilis",70,24,2,"adults","24.2","Carinoma mutabilis","parasite_consumption","Carinoma",41,"Carinoma","Animalia","Nemertea","Palaeonemertea",NA,"Carinomidae","Palaeonemertea",0.2
+"71","Catatropis johnstoni",71,25,1,"adults","25.1","Catatropis johnstoni","parasitic","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"72","Catatropis johnstoni",72,25,2,"adults","25.2","Catatropis johnstoni","parasite_consumption","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"73","Catatropis johnstoni",73,25,3,"cercaria","25.3","Catatropis johnstoni","predacious","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"74","Catatropis johnstoni",74,25,4,"metacercaria","25.4","Catatropis johnstoni","parasitic","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"75","Catatropis johnstoni",75,25,5,"metacercaria","25.5","Catatropis johnstoni","parasite_consumption","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"76","Catatropis johnstoni",76,25,6,"parthenitae","25.6","Catatropis johnstoni","parasite_consumption","Catatropis",60,"Catatropis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Notocotylidae","Acentrosomata",0.2
+"77","Catoptrophorus semipalmatus",77,26,1,"adults","26.1","Willet","predacious","Catoptrophorus",3,"Catoptrophorus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"78","Catoptrophorus semipalmatus",78,26,2,"adults","26.2","Willet","parasite_consumption","Catoptrophorus",3,"Catoptrophorus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"79","Catoptrophorus semipalmatus",79,26,3,"adults","26.3","Willet","parasitic","Catoptrophorus",3,"Catoptrophorus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"80","Ceryle alcyon",80,27,1,"adults","27.1","Belted Kingfisher","predacious","Ceryle",31,"Ceryle","Animalia","Chordata","Aves","Coraciiformes","Alcedinidae","Aves",0.12
+"81","Ceryle alcyon",81,27,2,"adults","27.2","Belted Kingfisher","parasite_consumption","Ceryle",31,"Ceryle","Animalia","Chordata","Aves","Coraciiformes","Alcedinidae","Aves",0.12
+"82","Ceryle alcyon",82,27,3,"adults","27.3","Belted Kingfisher","parasitic","Ceryle",31,"Ceryle","Animalia","Chordata","Aves","Coraciiformes","Alcedinidae","Aves",0.12
+"83","Charadrius semipalmatus",83,28,1,"adults","28.1","Semipalmated Plover","predacious","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"84","Charadrius semipalmatus",84,28,2,"adults","28.2","Semipalmated Plover","parasite_consumption","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"85","Charadrius semipalmatus",85,28,3,"adults","28.3","Semipalmated Plover","parasitic","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"86","Charadrius vociferus",86,29,1,"adults","29.1","Killdeer","predacious","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"87","Charadrius vociferus",87,29,2,"adults","29.2","Killdeer","parasite_consumption","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"88","Charadrius vociferus",88,29,3,"adults","29.3","Killdeer","parasitic","Charadrius",10,"Charadrius","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"89","Clevelandia ios",89,30,1,"adults","30.1","Arrow Goby","predacious","Clevelandia",35,"Clevelandia","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"90","Clevelandia ios",90,30,2,"adults","30.2","Arrow Goby","parasite_consumption","Clevelandia",35,"Clevelandia","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"91","Clevelandia ios",91,30,3,"adults","30.3","Arrow Goby","parasitic","Clevelandia",35,"Clevelandia","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"92","Cloacitrema michiganiensis",92,31,1,"adults","31.1","Cloacitrema michiganiensis","parasitic","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"93","Cloacitrema michiganiensis",93,31,2,"adults","31.2","Cloacitrema michiganiensis","parasite_consumption","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"94","Cloacitrema michiganiensis",94,31,3,"cercaria","31.3","Cloacitrema michiganiensis","parasite_consumption","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"95","Cloacitrema michiganiensis",95,31,4,"cercaria","31.4","Cloacitrema michiganiensis","predacious","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"96","Cloacitrema michiganiensis",96,31,5,"metacercaria","31.5","Cloacitrema michiganiensis","parasitic","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"97","Cloacitrema michiganiensis",97,31,6,"metacercaria","31.6","Cloacitrema michiganiensis","parasite_consumption","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"98","Cloacitrema michiganiensis",98,31,7,"parthenitae","31.7","Cloacitrema michiganiensis","parasite_consumption","Cloacitrema",57,"Cloacitrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Philophthalmidae","Acentrosomata",0.2
+"99","Corvus brachyrhynchos",99,32,1,"adults","32.1","American Crow","predacious","Corvus",30,"Corvus","Animalia","Chordata","Aves","Passeriformes","Corvidae","Aves",0.12
+"100","Corvus brachyrhynchos",100,32,2,"adults","32.2","American Crow","parasite_consumption","Corvus",30,"Corvus","Animalia","Chordata","Aves","Passeriformes","Corvidae","Aves",0.12
+"101","Corvus brachyrhynchos",101,32,3,"adults","32.3","American Crow","parasitic","Corvus",30,"Corvus","Animalia","Chordata","Aves","Passeriformes","Corvidae","Aves",0.12
+"102","Culex tarsalis",102,33,1,"adults","33.1","Western Encephalitis Mosquito","parasitic","Culex",54,"Culex","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"103","Culex tarsalis",103,33,2,"adults","33.2","Western Encephalitis Mosquito","parasite_consumption","Culex",54,"Culex","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"104","Culex tarsalis",104,33,3,"larvae","33.3","Western Encephalitis Mosquito","predacious","Culex",54,"Culex","Animalia","Arthropoda","Insecta","Diptera","Culicidae","Insecta",0.16
+"105","Cymatogaster aggregata",105,34,1,"adults","34.1","Shiner Surfperch","parasite_consumption","Cymatogaster",81,"Cymatogaster","Animalia","Chordata","Teleostei","Perciformes","Embiotocidae","Teleostei",0.2
+"106","Cymatogaster aggregata",106,34,2,"adults","34.2","Shiner Surfperch","predacious","Cymatogaster",81,"Cymatogaster","Animalia","Chordata","Teleostei","Perciformes","Embiotocidae","Teleostei",0.2
+"107","Cymatogaster aggregata",107,34,3,"adults","34.3","Shiner Surfperch","parasitic","Cymatogaster",81,"Cymatogaster","Animalia","Chordata","Teleostei","Perciformes","Embiotocidae","Teleostei",0.2
+"108","Egretta alba",108,35,1,"adults","35.1","Great Egret","predacious","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"109","Egretta alba",109,35,2,"adults","35.2","Great Egret","parasite_consumption","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"110","Egretta alba",110,35,3,"adults","35.3","Great Egret","parasitic","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"111","Egretta caerulea",111,36,1,"adults","36.1","Little Blue Heron","predacious","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"112","Egretta caerulea",112,36,2,"adults","36.2","Little Blue Heron","parasite_consumption","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"113","Egretta caerulea",113,36,3,"adults","36.3","Little Blue Heron","parasitic","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"114","Egretta thula",114,37,1,"adults","37.1","Snowy Egret","predacious","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"115","Egretta thula",115,37,2,"adults","37.2","Snowy Egret","parasite_consumption","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"116","Egretta thula",116,37,3,"adults","37.3","Snowy Egret","parasitic","Egretta",20,"Egretta","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"117","Euhaplorchis californiensis",117,38,1,"adults","38.1","Euhaplorchis californiensis","parasitic","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"118","Euhaplorchis californiensis",118,38,2,"adults","38.2","Euhaplorchis californiensis","parasite_consumption","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"119","Euhaplorchis californiensis",119,38,3,"cercaria","38.3","Euhaplorchis californiensis","predacious","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"120","Euhaplorchis californiensis",120,38,4,"cercaria","38.4","Euhaplorchis californiensis","parasite_consumption","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"121","Euhaplorchis californiensis",121,38,5,"metacercaria","38.5","Euhaplorchis californiensis","parasitic","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"122","Euhaplorchis californiensis",122,38,6,"metacercaria","38.6","Euhaplorchis californiensis","parasite_consumption","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"123","Euhaplorchis californiensis",123,38,7,"parthenitae","38.7","Euhaplorchis californiensis","parasite_consumption","Euhaplorchis",62,"Euhaplorchis","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"124","Fulica americana",124,39,1,"adults","39.1","American Coot","predacious","Fulica",34,"Fulica","Animalia","Chordata","Aves","Gruiformes","Rallidae","Aves",0.12
+"125","Fulica americana",125,39,2,"adults","39.2","American Coot","parasite_consumption","Fulica",34,"Fulica","Animalia","Chordata","Aves","Gruiformes","Rallidae","Aves",0.12
+"126","Fulica americana",126,39,3,"adults","39.3","American Coot","parasitic","Fulica",34,"Fulica","Animalia","Chordata","Aves","Gruiformes","Rallidae","Aves",0.12
+"127","Fundulus parvipinnis",127,40,1,"adults","40.1","California Killifish","predacious","Fundulus",32,"Fundulus","Animalia","Chordata","Teleostei","Cyprinodontiformes","Fundulidae","Teleostei",0.2
+"128","Fundulus parvipinnis",128,40,2,"adults","40.2","California Killifish","parasite_consumption","Fundulus",32,"Fundulus","Animalia","Chordata","Teleostei","Cyprinodontiformes","Fundulidae","Teleostei",0.2
+"129","Fundulus parvipinnis",129,40,3,"adults","40.3","California Killifish","parasitic","Fundulus",32,"Fundulus","Animalia","Chordata","Teleostei","Cyprinodontiformes","Fundulidae","Teleostei",0.2
+"130","Gillichthys mirabilis",130,41,1,"adults","41.1","Long-jawed Mudsucker","predacious","Gillichthys",14,"Gillichthys","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"131","Gillichthys mirabilis",131,41,2,"adults","41.2","Long-jawed Mudsucker","parasite_consumption","Gillichthys",14,"Gillichthys","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"132","Gillichthys mirabilis",132,41,3,"adults","41.3","Long-jawed Mudsucker","parasitic","Gillichthys",14,"Gillichthys","Animalia","Chordata","Teleostei","Perciformes","Gobiidae","Teleostei",0.2
+"133","Glossocercus sp.",133,42,1,"adults","42.1","Glossocercus sp.","parasitic","Glossocercus",46,"Glossocercus","Animalia","Platyhelminthes","Acentrosomata","Cyclophyllidea","Gryporhynchidae","Acentrosomata",0.2
+"134","Glossocercus sp.",134,42,2,"adults","42.2","Glossocercus sp.","parasite_consumption","Glossocercus",46,"Glossocercus","Animalia","Platyhelminthes","Acentrosomata","Cyclophyllidea","Gryporhynchidae","Acentrosomata",0.2
+"135","Glossocercus sp.",135,42,3,"plerocercoid","42.3","Glossocercus sp.","parasitic","Glossocercus",46,"Glossocercus","Animalia","Platyhelminthes","Acentrosomata","Cyclophyllidea","Gryporhynchidae","Acentrosomata",0.2
+"136","Glossocercus sp.",136,42,4,"plerocercoid","42.4","Glossocercus sp.","parasite_consumption","Glossocercus",46,"Glossocercus","Animalia","Platyhelminthes","Acentrosomata","Cyclophyllidea","Gryporhynchidae","Acentrosomata",0.2
+"137","Glossocercus sp.",137,42,5,"procercoid","42.5","Glossocercus sp.","parasite_consumption","Glossocercus",46,"Glossocercus","Animalia","Platyhelminthes","Acentrosomata","Cyclophyllidea","Gryporhynchidae","Acentrosomata",0.2
+"138","Gyrodactylus sp.",138,43,1,"adults","43.1","Gyrodactylus sp.","parasitic","Gyrodactylus",50,"Gyrodactylus","Animalia","Platyhelminthes","Acentrosomata","Monopisthocotylea","Gyrodactylidae","Acentrosomata",0.2
+"139","Gyrodactylus sp.",139,43,2,"adults","43.2","Gyrodactylus sp.","parasite_consumption","Gyrodactylus",50,"Gyrodactylus","Animalia","Platyhelminthes","Acentrosomata","Monopisthocotylea","Gyrodactylidae","Acentrosomata",0.2
+"140","Hemigrapsus oregonensis",140,44,1,"adults","44.1","Green Shore Crab","predacious","Hemigrapsus",29,"Hemigrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Varunidae","Malacostraca",0.2
+"141","Hemigrapsus oregonensis",141,44,2,"adults","44.2","Green Shore Crab","parasite_consumption","Hemigrapsus",29,"Hemigrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Varunidae","Malacostraca",0.2
+"142","Hemigrapsus oregonensis",142,44,3,"adults","44.3","Green Shore Crab","parasitic","Hemigrapsus",29,"Hemigrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Varunidae","Malacostraca",0.2
+"143","Henneguya",143,45,1,"adults","45.1","Henneguya","parasitic","Henneguya",68,"Henneguya","Animalia","Cnidaria","Myxozoa","Bivalvulida","Myxobolidae","Myxozoa",0.2
+"144","Henneguya",144,45,2,"adults","45.2","Henneguya","parasite_consumption","Henneguya",68,"Henneguya","Animalia","Cnidaria","Myxozoa","Bivalvulida","Myxobolidae","Myxozoa",0.2
+"145","Himasthla rhigedana",145,46,1,"adults","46.1","Himasthla rhigedana","parasitic","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"146","Himasthla rhigedana",146,46,2,"adults","46.2","Himasthla rhigedana","parasite_consumption","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"147","Himasthla rhigedana",147,46,3,"cercaria","46.3","Himasthla rhigedana","parasite_consumption","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"148","Himasthla rhigedana",148,46,4,"cercaria","46.4","Himasthla rhigedana","predacious","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"149","Himasthla rhigedana",149,46,5,"metacercaria","46.5","Himasthla rhigedana","parasitic","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"150","Himasthla rhigedana",150,46,6,"metacercaria","46.6","Himasthla rhigedana","parasite_consumption","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"151","Himasthla rhigedana",151,46,7,"parthenitae","46.7","Himasthla rhigedana","parasite_consumption","Himasthla",49,"Himasthla","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Echinostomatidae","Acentrosomata",0.2
+"152","Hypsopsetta guttulata",152,47,1,"adults","47.1","Diamond Turbot","predacious","Hypsopsetta",38,"Hypsopsetta","Animalia","Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Teleostei",0.2
+"153","Hypsopsetta guttulata",153,47,2,"adults","47.2","Diamond Turbot","parasite_consumption","Hypsopsetta",38,"Hypsopsetta","Animalia","Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Teleostei",0.2
+"154","Hypsopsetta guttulata",154,47,3,"adults","47.3","Diamond Turbot","parasitic","Hypsopsetta",38,"Hypsopsetta","Animalia","Chordata","Teleostei","Pleuronectiformes","Pleuronectidae","Teleostei",0.2
+"155","Hysterolecitha trilocalis",155,48,1,"adults","48.1","Hysterolecitha trilocalis","parasitic","Hysterolecitha",55,"Hysterolecitha","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Hemiuridae","Acentrosomata",0.2
+"156","Hysterolecitha trilocalis",156,48,2,"adults","48.2","Hysterolecitha trilocalis","parasite_consumption","Hysterolecitha",55,"Hysterolecitha","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Hemiuridae","Acentrosomata",0.2
+"157","Hysterolecitha trilocalis",157,48,3,"cercaria","48.3","Hysterolecitha trilocalis","predacious","Hysterolecitha",55,"Hysterolecitha","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Hemiuridae","Acentrosomata",0.2
+"158","Hysterolecitha trilocalis",158,48,4,"metacercaria","48.4","Hysterolecitha trilocalis","parasite_consumption","Hysterolecitha",55,"Hysterolecitha","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Hemiuridae","Acentrosomata",0.2
+"159","Hysterolecitha trilocalis",159,48,5,"parthenitae","48.5","Hysterolecitha trilocalis","parasite_consumption","Hysterolecitha",55,"Hysterolecitha","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Hemiuridae","Acentrosomata",0.2
+"160","Larus californicus",160,49,1,"adults","49.1","California Gull","predacious","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"161","Larus californicus",161,49,2,"adults","49.2","California Gull","parasite_consumption","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"162","Larus californicus",162,49,3,"adults","49.3","California Gull","parasitic","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"163","Larus canus",163,50,1,"adults","50.1","Mew Gull","predacious","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"164","Larus canus",164,50,2,"adults","50.2","Mew Gull","parasite_consumption","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"165","Larus canus",165,50,3,"adults","50.3","Mew Gull","parasitic","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"166","Larus delawarensis",166,51,1,"adults","51.1","Ring-billed Gull","predacious","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"167","Larus delawarensis",167,51,2,"adults","51.2","Ring-billed Gull","parasite_consumption","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"168","Larus delawarensis",168,51,3,"adults","51.3","Ring-billed Gull","parasitic","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"169","Larus philadelphia",169,52,1,"adults","52.1","Bonaparte's Gull","predacious","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"170","Larus philadelphia",170,52,2,"adults","52.2","Bonaparte's Gull","parasite_consumption","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"171","Larus philadelphia",171,52,3,"adults","52.3","Bonaparte's Gull","parasitic","Larus",24,"Larus","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"172","Leptocottus armatus",172,53,1,"adults","53.1","Staghorn Sculpin","predacious","Leptocottus",36,"Leptocottus","Animalia","Chordata","Teleostei","Scorpaeniformes","Cottidae","Teleostei",0.2
+"173","Leptocottus armatus",173,53,2,"adults","53.2","Staghorn Sculpin","parasite_consumption","Leptocottus",36,"Leptocottus","Animalia","Chordata","Teleostei","Scorpaeniformes","Cottidae","Teleostei",0.2
+"174","Leptocottus armatus",174,53,3,"adults","53.3","Staghorn Sculpin","parasitic","Leptocottus",36,"Leptocottus","Animalia","Chordata","Teleostei","Scorpaeniformes","Cottidae","Teleostei",0.2
+"175","Limnodromus scilopaceus",175,54,1,"adults","54.1","Long-billed Dowitcher","predacious","Limnodromus",8,"Limnodromus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"176","Limnodromus scilopaceus",176,54,2,"adults","54.2","Long-billed Dowitcher","parasite_consumption","Limnodromus",8,"Limnodromus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"177","Limnodromus scilopaceus",177,54,3,"adults","54.3","Long-billed Dowitcher","parasitic","Limnodromus",8,"Limnodromus","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"178","Limosa fedoa",178,55,1,"adults","55.1","Marbled Godwit","predacious","Limosa",1,"Limosa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"179","Limosa fedoa",179,55,2,"adults","55.2","Marbled Godwit","parasite_consumption","Limosa",1,"Limosa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"180","Limosa fedoa",180,55,3,"adults","55.3","Marbled Godwit","parasitic","Limosa",1,"Limosa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"181","Macoma nasuta",181,56,1,"adults","56.1","Bent-nosed Clam","parasite_consumption","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"182","Macoma nasuta",182,56,2,"adults","56.2","Bent-nosed Clam","predacious","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"183","Macoma nasuta",183,56,3,"adults","56.3","Bent-nosed Clam","parasitic","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"184","Macoma nasuta",184,56,4,"larvae","56.4","Bent-nosed Clam","predacious","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"185","Macoma secta",185,57,1,"adults","57.1","White Sand Macoma","predacious","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"186","Macoma secta",186,57,2,"larvae","57.2","White Sand Macoma","predacious","Macoma",74,"Macoma","Animalia","Mollusca","Bivalvia","Sphaeriida","Tellinidae","Bivalvia",0.2
+"187","Maritrema sp.",187,58,1,"adults","58.1","Maritrema sp.","parasitic","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"188","Maritrema sp.",188,58,2,"adults","58.2","Maritrema sp.","parasite_consumption","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"189","Maritrema sp.",189,58,3,"cercaria","58.3","Maritrema sp.","predacious","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"190","Maritrema sp.",190,58,4,"metacercaria","58.4","Maritrema sp.","parasitic","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"191","Maritrema sp.",191,58,5,"metacercaria","58.5","Maritrema sp.","parasite_consumption","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"192","Maritrema sp.",192,58,6,"parthenitae","58.6","Maritrema sp.","parasite_consumption","Maritrema",42,"Maritrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Microphallidae","Acentrosomata",0.2
+"193","Melanitta perspicillata",193,59,1,"adults","59.1","Surf Scoter","predacious","Melanitta",27,"Melanitta","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"194","Melanitta perspicillata",194,59,2,"adults","59.2","Surf Scoter","parasite_consumption","Melanitta",27,"Melanitta","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"195","Melanitta perspicillata",195,59,3,"adults","59.3","Surf Scoter","parasitic","Melanitta",27,"Melanitta","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"196","Mergus serrator",196,60,1,"adults","60.1","Red-breasted Merganser","predacious","Mergus",19,"Mergus","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"197","Mergus serrator",197,60,2,"adults","60.2","Red-breasted Merganser","parasite_consumption","Mergus",19,"Mergus","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"198","Mergus serrator",198,60,3,"adults","60.3","Red-breasted Merganser","parasitic","Mergus",19,"Mergus","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"199","Mesostephanus appendiculatus",199,61,1,"adults","61.1","Mesostephanus appendiculatus","parasitic","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"200","Mesostephanus appendiculatus",200,61,2,"cercaria","61.2","Mesostephanus appendiculatus","predacious","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"201","Mesostephanus appendiculatus",201,61,3,"cercaria","61.3","Mesostephanus appendiculatus","parasite_consumption","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"202","Mesostephanus appendiculatus",202,61,4,"metacercaria","61.4","Mesostephanus appendiculatus","parasitic","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"203","Mesostephanus appendiculatus",203,61,5,"metacercaria","61.5","Mesostephanus appendiculatus","parasite_consumption","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"204","Mesostephanus appendiculatus",204,61,6,"parthenitae","61.6","Mesostephanus appendiculatus","parasite_consumption","Mesostephanus",56,"Mesostephanus","Animalia","Platyhelminthes","Acentrosomata","Diplostomida","Cyathocotylidae","Acentrosomata",0.2
+"205","Numenius americanus",205,62,1,"adults","62.1","Long-billed Curlew","predacious","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"206","Numenius americanus",206,62,2,"adults","62.2","Long-billed Curlew","parasite_consumption","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"207","Numenius americanus",207,62,3,"adults","62.3","Long-billed Curlew","parasitic","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"208","Numenius phaeopus",208,63,1,"adults","63.1","Whimbrel","predacious","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"209","Numenius phaeopus",209,63,2,"adults","63.2","Whimbrel","parasite_consumption","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"210","Numenius phaeopus",210,63,3,"adults","63.3","Whimbrel","parasitic","Numenius",22,"Numenius","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"211","Nuttallia nuttallii",211,64,1,"adults","64.1","California Mahogany Clam","predacious","Nuttallia",79,"Nuttallia","Animalia","Mollusca","Bivalvia","Sphaeriida","Psammobiidae","Bivalvia",0.2
+"212","Nuttallia nuttallii",212,64,2,"larvae","64.2","California Mahogany Clam","predacious","Nuttallia",79,"Nuttallia","Animalia","Mollusca","Bivalvia","Sphaeriida","Psammobiidae","Bivalvia",0.2
+"213","Nycticorax nycticorax",213,65,1,"adults","65.1","Black-crowned Night Heron","predacious","Nycticorax",21,"Nycticorax","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"214","Nycticorax nycticorax",214,65,2,"adults","65.2","Black-crowned Night Heron","parasite_consumption","Nycticorax",21,"Nycticorax","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"215","Nycticorax nycticorax",215,65,3,"adults","65.3","Black-crowned Night Heron","parasitic","Nycticorax",21,"Nycticorax","Animalia","Chordata","Aves","Pelecaniformes","Ardeidae","Aves",0.12
+"216","Orthione griffenis",216,66,1,"adults","66.1","Orthione griffinis","parasite_consumption","Orthione",75,"Orthione","Animalia","Arthropoda","Malacostraca","Isopoda","Bopyridae","Malacostraca",0.2
+"217","Orthione griffenis",217,66,2,"larvae","66.2","Orthione griffinis","parasite_consumption","Orthione",75,"Orthione","Animalia","Arthropoda","Malacostraca","Isopoda","Bopyridae","Malacostraca",0.2
+"218","Oxyura jamaicensis",218,67,1,"adults","67.1","Ruddy Duck","parasite_consumption","Oxyura",69,"Oxyura","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"219","Oxyura jamaicensis",219,67,2,"adults","67.2","Ruddy Duck","predacious","Oxyura",69,"Oxyura","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"220","Oxyura jamaicensis",220,67,3,"adults","67.3","Ruddy Duck","parasitic","Oxyura",69,"Oxyura","Animalia","Chordata","Aves","Anseriformes","Anatidae","Aves",0.12
+"221","Pachygrapsus crassipes",221,68,1,"adults","68.1","Striped Shore Crab","predacious","Pachygrapsus",16,"Pachygrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Grapsidae","Malacostraca",0.2
+"222","Pachygrapsus crassipes",222,68,2,"adults","68.2","Striped Shore Crab","parasite_consumption","Pachygrapsus",16,"Pachygrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Grapsidae","Malacostraca",0.2
+"223","Pachygrapsus crassipes",223,68,3,"adults","68.3","Striped Shore Crab","parasitic","Pachygrapsus",16,"Pachygrapsus","Animalia","Arthropoda","Malacostraca","Decapoda","Grapsidae","Malacostraca",0.2
+"224","Paralichthys californicus",224,69,1,"adults","69.1","California Halibut","predacious","Paralichthys",33,"Paralichthys","Animalia","Chordata","Teleostei","Pleuronectiformes","Paralichthyidae","Teleostei",0.2
+"225","Paralichthys californicus",225,69,2,"adults","69.2","California Halibut","parasite_consumption","Paralichthys",33,"Paralichthys","Animalia","Chordata","Teleostei","Pleuronectiformes","Paralichthyidae","Teleostei",0.2
+"226","Paralichthys californicus",226,69,3,"adults","69.3","California Halibut","parasitic","Paralichthys",33,"Paralichthys","Animalia","Chordata","Teleostei","Pleuronectiformes","Paralichthyidae","Teleostei",0.2
+"227","Pardosa sp.",227,70,1,"adults","70.1","Pardosa sp.","predacious","Pardosa",40,"Pardosa","Animalia","Arthropoda","Arachnida","Araneae","Lycosidae","Arachnida",0.2
+"228","Pardosa sp.",228,70,2,"adults","70.2","Pardosa sp.","parasite_consumption","Pardosa",40,"Pardosa","Animalia","Arthropoda","Arachnida","Araneae","Lycosidae","Arachnida",0.2
+"229","Parorchis acanthus",229,71,1,"adults","71.1","Parorchis acanthus","parasitic","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"230","Parorchis acanthus",230,71,2,"adults","71.2","Parorchis acanthus","parasite_consumption","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"231","Parorchis acanthus",231,71,3,"cercaria","71.3","Parorchis acanthus","parasite_consumption","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"232","Parorchis acanthus",232,71,4,"cercaria","71.4","Parorchis acanthus","predacious","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"233","Parorchis acanthus",233,71,5,"metacercaria","71.5","Parorchis acanthus","parasitic","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"234","Parorchis acanthus",234,71,6,"metacercaria","71.6","Parorchis acanthus","parasite_consumption","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"235","Parorchis acanthus",235,71,7,"parthenitae","71.7","Parorchis acanthus","parasite_consumption","Parorchis",51,"Parorchis","Animalia","Platyhelminthes","Trematoda","Plagiorchiida","Philophthalmidae ","Trematoda",0.2
+"236","Parvatrema sp.",236,72,1,"adults","72.1","Parvatrema sp.","parasitic","Parvatrema",64,"Parvatrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Gymnophallidae","Acentrosomata",0.2
+"237","Parvatrema sp.",237,72,2,"cercaria","72.2","Parvatrema sp.","parasite_consumption","Parvatrema",64,"Parvatrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Gymnophallidae","Acentrosomata",0.2
+"238","Parvatrema sp.",238,72,3,"cercaria","72.3","Parvatrema sp.","predacious","Parvatrema",64,"Parvatrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Gymnophallidae","Acentrosomata",0.2
+"239","Parvatrema sp.",239,72,4,"metacercaria","72.4","Parvatrema sp.","parasitic","Parvatrema",64,"Parvatrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Gymnophallidae","Acentrosomata",0.2
+"240","Parvatrema sp.",240,72,5,"metacercaria","72.5","Parvatrema sp.","parasite_consumption","Parvatrema",64,"Parvatrema","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Gymnophallidae","Acentrosomata",0.2
+"241","Phalacrocorax penicillatus",241,73,1,"adults","73.1","Double-crested Cormorant","predacious","Phalacrocorax",13,"Phalacrocorax","Animalia","Chordata","Aves","Suliformes","Phalacrocoracidae","Aves",0.12
+"242","Phalacrocorax penicillatus",242,73,2,"adults","73.2","Double-crested Cormorant","parasite_consumption","Phalacrocorax",13,"Phalacrocorax","Animalia","Chordata","Aves","Suliformes","Phalacrocoracidae","Aves",0.12
+"243","Phalacrocorax penicillatus",243,73,3,"adults","73.3","Double-crested Cormorant","parasitic","Phalacrocorax",13,"Phalacrocorax","Animalia","Chordata","Aves","Suliformes","Phalacrocoracidae","Aves",0.12
+"244","Phocitremoides ovale",244,74,1,"adults","74.1","Phocitremoides ovale","parasitic","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"245","Phocitremoides ovale",245,74,2,"adults","74.2","Phocitremoides ovale","parasite_consumption","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"246","Phocitremoides ovale",246,74,3,"cercaria","74.3","Phocitremoides ovale","predacious","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"247","Phocitremoides ovale",247,74,4,"cercaria","74.4","Phocitremoides ovale","parasite_consumption","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"248","Phocitremoides ovale",248,74,5,"metacercaria","74.5","Phocitremoides ovale","parasitic","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"249","Phocitremoides ovale",249,74,6,"metacercaria","74.6","Phocitremoides ovale","parasite_consumption","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"250","Phocitremoides ovale",250,74,7,"parthenitae","74.7","Phocitremoides ovale","parasite_consumption","Phocitremoides",59,"Phocitremoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"251","Picornavirus",251,75,1,"adults","75.1","virus","parasite_consumption","Picornavirus",NA,NA,NA,NA,NA,NA,NA,"Picornavirus",0.1
+"252","Plasmodium sp.",252,76,1,"adults","76.1","Plasmodium sp.","parasitic","Plasmodium",66,"Plasmodium","Protozoa","Apicomplexa","Aconoidasida","Haemosporida","Plasmodiidae","Aconoidasida",0.2
+"253","Plasmodium sp.",253,76,2,"adults","76.2","Plasmodium sp.","parasite_consumption","Plasmodium",66,"Plasmodium","Protozoa","Apicomplexa","Aconoidasida","Haemosporida","Plasmodiidae","Aconoidasida",0.2
+"254","Pluvialis squatarola",254,77,1,"adults","77.1","Black-bellied Plover","predacious","Pluvialis",4,"Pluvialis","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"255","Pluvialis squatarola",255,77,2,"adults","77.2","Black-bellied Plover","parasite_consumption","Pluvialis",4,"Pluvialis","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"256","Pluvialis squatarola",256,77,3,"adults","77.3","Black-bellied Plover","parasitic","Pluvialis",4,"Pluvialis","Animalia","Chordata","Aves","Charadriiformes","Charadriidae","Aves",0.12
+"257","Podilymbus podiceps",257,78,1,"adults","78.1","Pied-billed Grebe","predacious","Podilymbus",26,"Podilymbus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"258","Podilymbus podiceps",258,78,2,"adults","78.2","Pied-billed Grebe","parasite_consumption","Podilymbus",26,"Podilymbus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"259","Podilymbus podiceps",259,78,3,"adults","78.3","Pied-billed Grebe","parasitic","Podilymbus",26,"Podilymbus","Animalia","Chordata","Aves","Podicipediformes","Podicipedidae","Aves",0.12
+"260","Polydora cilliata",260,79,1,"adults","79.1","Polydora cilliata","parasitic","Polydora",6,"Polydora","Animalia","Annelida","Polychaeta","Spionida","Spionidae","Polychaeta",0.2
+"261","Polydora cilliata",261,79,2,"adults","79.2","Polydora cilliata","parasite_consumption","Polydora",6,"Polydora","Animalia","Annelida","Polychaeta","Spionida","Spionidae","Polychaeta",0.2
+"262","Polydora nuchalis",262,80,1,"adults","80.1","Polydora nuchalis","predacious","Polydora",6,"Polydora","Animalia","Annelida","Polychaeta","Spionida","Spionidae","Polychaeta",0.2
+"263","Polydora nuchalis",263,80,2,"adults","80.2","Polydora nuchalis","parasitic","Polydora",6,"Polydora","Animalia","Annelida","Polychaeta","Spionida","Spionidae","Polychaeta",0.2
+"264","Polydora nuchalis",264,80,3,"larvae","80.3","Polydora nuchalis","predacious","Polydora",6,"Polydora","Animalia","Annelida","Polychaeta","Spionida","Spionidae","Polychaeta",0.2
+"265","Portunion conformis",265,81,1,"adults","81.1","Portunion conformis","parasite_consumption","Portunion",76,"Portunion","Animalia","Arthropoda","Malacostraca","Isopoda","Entoniscidae","Malacostraca",0.2
+"266","Procyon locator",266,82,1,"adults","82.1","Raccoon","predacious","Procyon",15,"Procyon","Animalia","Chordata","Mammalia","Carnivora","Procyonidae","Mammalia",0.27
+"267","Procyon locator",267,82,2,"adults","82.2","Raccoon","parasite_consumption","Procyon",15,"Procyon","Animalia","Chordata","Mammalia","Carnivora","Procyonidae","Mammalia",0.27
+"268","Procyon locator",268,82,3,"adults","82.3","Raccoon","parasitic","Procyon",15,"Procyon","Animalia","Chordata","Mammalia","Carnivora","Procyonidae","Mammalia",0.27
+"269","Protothaca staminea",269,83,1,"adults","83.1","Pacific Littleneck Clam","parasite_consumption","Protothaca",73,"Protothaca","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"270","Protothaca staminea",270,83,2,"adults","83.2","Pacific Littleneck Clam","predacious","Protothaca",73,"Protothaca","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"271","Protothaca staminea",271,83,3,"adults","83.3","Pacific Littleneck Clam","parasitic","Protothaca",73,"Protothaca","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"272","Protothaca staminea",272,83,4,"larvae","83.4","Pacific Littleneck Clam","predacious","Protothaca",73,"Protothaca","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"273","Pygidiopsoides spindalis",273,84,1,"adults","84.1","Pygidiopsoides spindalis","parasitic","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"274","Pygidiopsoides spindalis",274,84,2,"adults","84.2","Pygidiopsoides spindalis","parasite_consumption","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"275","Pygidiopsoides spindalis",275,84,3,"cercaria","84.3","Pygidiopsoides spindalis","predacious","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"276","Pygidiopsoides spindalis",276,84,4,"cercaria","84.4","Pygidiopsoides spindalis","parasite_consumption","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"277","Pygidiopsoides spindalis",277,84,5,"metacercaria","84.5","Pygidiopsoides spindalis","parasitic","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"278","Pygidiopsoides spindalis",278,84,6,"metacercaria","84.6","Pygidiopsoides spindalis","parasite_consumption","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"279","Pygidiopsoides spindalis",279,84,7,"parthenitae","84.7","Pygidiopsoides spindalis","parasite_consumption","Pygidiopsoides",63,"Pygidiopsoides","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"280","Recurvirostra americana",280,85,1,"adults","85.1","American Avocet","predacious","Recurvirostra",2,"Recurvirostra","Animalia","Chordata","Aves","Charadriiformes","Recurvirostridae","Aves",0.12
+"281","Recurvirostra americana",281,85,2,"adults","85.2","American Avocet","parasite_consumption","Recurvirostra",2,"Recurvirostra","Animalia","Chordata","Aves","Charadriiformes","Recurvirostridae","Aves",0.12
+"282","Recurvirostra americana",282,85,3,"adults","85.3","American Avocet","parasitic","Recurvirostra",2,"Recurvirostra","Animalia","Chordata","Aves","Charadriiformes","Recurvirostridae","Aves",0.12
+"283","Renicola buchanani",283,86,1,"adults","86.1","Renicola buchanani","parasitic","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"284","Renicola buchanani",284,86,2,"adults","86.2","Renicola buchanani","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"285","Renicola buchanani",285,86,3,"cercaria","86.3","Renicola buchanani","predacious","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"286","Renicola buchanani",286,86,4,"cercaria","86.4","Renicola buchanani","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"287","Renicola buchanani",287,86,5,"metacercaria","86.5","Renicola buchanani","parasitic","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"288","Renicola buchanani",288,86,6,"metacercaria","86.6","Renicola buchanani","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"289","Renicola buchanani",289,86,7,"parthenitae","86.7","Renicola buchanani","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"290","Renicola cerithidicola",290,87,1,"adults","87.1","Renicola cerithidicola","parasitic","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"291","Renicola cerithidicola",291,87,2,"adults","87.2","Renicola cerithidicola","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"292","Renicola cerithidicola",292,87,3,"cercaria","87.3","Renicola cerithidicola","predacious","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"293","Renicola cerithidicola",293,87,4,"cercaria","87.4","Renicola cerithidicola","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"294","Renicola cerithidicola",294,87,5,"metacercaria","87.5","Renicola cerithidicola","parasitic","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"295","Renicola cerithidicola",295,87,6,"metacercaria","87.6","Renicola cerithidicola","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"296","Renicola cerithidicola",296,87,7,"parthenitae","87.7","Renicola cerithidicola","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"297","Renicola sp.",297,88,1,"cercaria","88.1","Renicola sp.","predacious","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"298","Renicola sp.",298,88,2,"metacercaria","88.2","Renicola sp.","parasitic","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"299","Renicola sp.",299,88,3,"metacercaria","88.3","Renicola sp.","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"300","Renicola sp.",300,88,4,"parthenitae","88.4","Renicola sp.","parasite_consumption","Renicola",44,"Renicola","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Renicolidae","Acentrosomata",0.2
+"301","Saxidomus nuttalli",301,89,1,"adults","89.1","Butter Clam","predacious","Saxidomus",78,"Saxidomus","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"302","Saxidomus nuttalli",302,89,2,"larvae","89.2","Butter Clam","predacious","Saxidomus",78,"Saxidomus","Animalia","Mollusca","Bivalvia","Venerida","Veneridae","Bivalvia",0.2
+"303","Spirocamallanus pereirae",303,90,1,"adults","90.1","Spirocamallanus pereirae","parasitic","Spirocamallanus",45,"Spirocamallanus","Animalia","Nematoda","Chromadorea","Camallanida","Camallanidae","Chromadorea",0.2
+"304","Spirocamallanus pereirae",304,90,2,"adults","90.2","Spirocamallanus pereirae","parasite_consumption","Spirocamallanus",45,"Spirocamallanus","Animalia","Nematoda","Chromadorea","Camallanida","Camallanidae","Chromadorea",0.2
+"305","Spirocamallanus pereirae",305,90,3,"larvae","90.3","Spirocamallanus pereirae","parasite_consumption","Spirocamallanus",45,"Spirocamallanus","Animalia","Nematoda","Chromadorea","Camallanida","Camallanidae","Chromadorea",0.2
+"306","Sterna caspia",306,91,1,"adults","91.1","Caspian Tern","predacious","Sterna",23,"Sterna","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"307","Sterna caspia",307,91,2,"adults","91.2","Caspian Tern","parasite_consumption","Sterna",23,"Sterna","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"308","Sterna caspia",308,91,3,"adults","91.3","Caspian Tern","parasitic","Sterna",23,"Sterna","Animalia","Chordata","Aves","Charadriiformes","Laridae","Aves",0.12
+"309","Stictodora hancocki",309,92,1,"adults","92.1","Stictodora hancocki","parasitic","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"310","Stictodora hancocki",310,92,2,"adults","92.2","Stictodora hancocki","parasite_consumption","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"311","Stictodora hancocki",311,92,3,"cercaria","92.3","Stictodora hancocki","predacious","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"312","Stictodora hancocki",312,92,4,"cercaria","92.4","Stictodora hancocki","parasite_consumption","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"313","Stictodora hancocki",313,92,5,"metacercaria","92.5","Stictodora hancocki","parasitic","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"314","Stictodora hancocki",314,92,6,"metacercaria","92.6","Stictodora hancocki","parasite_consumption","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"315","Stictodora hancocki",315,92,7,"parthenitae","92.7","Stictodora hancocki","parasite_consumption","Stictodora",58,"Stictodora","Animalia","Platyhelminthes","Acentrosomata","Plagiorchiida","Heterophyidae","Acentrosomata",0.2
+"316","Tagelus affinis",316,93,1,"adults","93.1","Fat Jackknife Clam","parasite_consumption","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"317","Tagelus affinis",317,93,2,"adults","93.2","Fat Jackknife Clam","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"318","Tagelus affinis",318,93,3,"adults","93.3","Fat Jackknife Clam","parasitic","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"319","Tagelus affinis",319,93,4,"larvae","93.4","Fat Jackknife Clam","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"320","Tagelus californianus",320,94,1,"adults","94.1","California Jackknife Clam","parasite_consumption","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"321","Tagelus californianus",321,94,2,"adults","94.2","California Jackknife Clam","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"322","Tagelus californianus",322,94,3,"adults","94.3","California Jackknife Clam","parasitic","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"323","Tagelus californianus",323,94,4,"larvae","94.4","California Jackknife Clam","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"324","Tagelus subteres",324,95,1,"adults","95.1","Lesser Tagelus","parasite_consumption","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"325","Tagelus subteres",325,95,2,"adults","95.2","Lesser Tagelus","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"326","Tagelus subteres",326,95,3,"adults","95.3","Lesser Tagelus","parasitic","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"327","Tagelus subteres",327,95,4,"larvae","95.4","Lesser Tagelus","predacious","Tagelus",72,"Tagelus","Animalia","Mollusca","Bivalvia","Sphaeriida","Solecurtidae","Bivalvia",0.2
+"328","Triakis semifasciata",328,96,1,"adults","96.1","Leopard Shark","predacious","Triakis",17,"Triakis","Animalia","Chordata","Chondrichthyes","Carcharhiniformes","Triakidae","Chondrichthyes",0.2
+"329","Triakis semifasciata",329,96,2,"adults","96.2","Leopard Shark","parasite_consumption","Triakis",17,"Triakis","Animalia","Chordata","Chondrichthyes","Carcharhiniformes","Triakidae","Chondrichthyes",0.2
+"330","Trichodina sp.",330,97,1,"adults","97.1","Trichodina sp.","parasitic","Trichodina",67,"Trichodina","Protozoa","Ciliophora","Oligohymenophorea","Mobilida","Trichodinidae","Oligohymenophorea",0.2
+"331","Trichodina sp.",331,97,2,"adults","97.2","Trichodina sp.","parasite_consumption","Trichodina",67,"Trichodina","Protozoa","Ciliophora","Oligohymenophorea","Mobilida","Trichodinidae","Oligohymenophorea",0.2
+"332","Tringa melanoleuca",332,98,1,"adults","98.1","Greater Yellowlegs","predacious","Tringa",5,"Tringa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"333","Tringa melanoleuca",333,98,2,"adults","98.2","Greater Yellowlegs","parasite_consumption","Tringa",5,"Tringa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"334","Tringa melanoleuca",334,98,3,"adults","98.3","Greater Yellowlegs","parasitic","Tringa",5,"Tringa","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Aves",0.12
+"335","Upogebia macginitieorum",335,99,1,"adults","99.1","Southern Mud Shrimp","parasite_consumption","Upogebia",70,"Upogebia","Animalia","Arthropoda","Malacostraca","Decapoda","Upogebiidae","Malacostraca",0.2
+"336","Upogebia macginitieorum",336,99,2,"adults","99.2","Southern Mud Shrimp","predacious","Upogebia",70,"Upogebia","Animalia","Arthropoda","Malacostraca","Decapoda","Upogebiidae","Malacostraca",0.2
+"337","Upogebia macginitieorum",337,99,3,"adults","99.3","Southern Mud Shrimp","parasitic","Upogebia",70,"Upogebia","Animalia","Arthropoda","Malacostraca","Decapoda","Upogebiidae","Malacostraca",0.2
+"338","Urolophus halleri",338,100,1,"adults","100.1","Haller's Round Ray","predacious","Urolophus",25,"Urolophus","Animalia","Chordata","Chondrichthyes","Myliobatiformes","Urolophidae","Chondrichthyes",0.2
+"339","Urolophus halleri",339,100,2,"adults","100.2","Haller's Round Ray","parasite_consumption","Urolophus",25,"Urolophus","Animalia","Chordata","Chondrichthyes","Myliobatiformes","Urolophidae","Chondrichthyes",0.2
+"340","Capitella capitata",340,101,1,"adults","101.1","Capitella capitata","predacious","Capitella",82,"Capitella","Animalia","Annelida","Polychaeta",NA,"Capitellidae","Polychaeta",0.2
+"341","Capitella capitata",341,101,2,"adults","101.2","Capitella capitata","parasitic","Capitella",82,"Capitella","Animalia","Annelida","Polychaeta",NA,"Capitellidae","Polychaeta",0.2
+"342","Capitella capitata",342,101,3,"larvae","101.3","Capitella capitata","predacious","Capitella",82,"Capitella","Animalia","Annelida","Polychaeta",NA,"Capitellidae","Polychaeta",0.2
+"343","Traskorchestia traskiana",343,102,1,"adults","102.1","Salt Marsh Hopper","predacious","Traskorchestia",83,"Traskorchestia","Animalia","Arthropoda","Malacostraca","Amphipoda","Talitridae","Malacostraca",0.2
+"344","Traskorchestia traskiana",344,102,2,"adults","102.2","Salt Marsh Hopper","parasitic","Traskorchestia",83,"Traskorchestia","Animalia","Arthropoda","Malacostraca","Amphipoda","Talitridae","Malacostraca",0.2
+"345","Trichocorixia sp.",345,103,1,"adults","103.1","Salt Marsh Water Boatman","predacious","Trichocorixia",84,"Trichocorixia","Animalia","Arthropoda","Insecta","Hemiptera","Corixidae","Insecta",0.16
+"346","Acteocina inculta",346,104,1,"adults","104.1","Acteocina inculta","predacious","Acteocina",85,"Acteocina","Animalia","Mollusca","Gastropoda","Cephalaspidea","Cylichnidae","Gastropoda",0.2
+"347","Acteocina inculta",347,104,2,"adults","104.2","Acteocina inculta","parasite_consumption","Acteocina",85,"Acteocina","Animalia","Mollusca","Gastropoda","Cephalaspidea","Cylichnidae","Gastropoda",0.2
+"348","Assiminea californica",348,105,1,"adults","105.1","California Assiminea","predacious","Assiminea",86,"Assiminea","Animalia","Mollusca","Gastropoda","Littorinida","Assimineidae","Gastropoda",0.2
+"349","Probolocoryphe species A",349,106,1,"cercaria","106.1","Probolocoryphe species A","predacious","Probolocoryphe",87,"Probolocoryphe","Animalia","Platyhelminthes","Digenea","Plagiorchiida","Microphallidae","Digenea",0.2
+"350","Ephydra",350,107,1,"larvae","107.1","Ephydra","predacious","Ephydra",88,"Ephydra","Animalia","Arthropoda","Insecta","Diptera","Ephydridae","Insecta",0.16
+"351","Uca crenulata",351,108,1,"adults","108.1","Fiddler Crab","predacious","Uca",89,"Uca","Animalia","Arthropoda","Malacostraca","Decapoda","Ocypodidae","Malacostraca",0.2
+"352","Uca crenulata",352,108,2,"adults","108.2","Fiddler Crab","parasitic","Uca",89,"Uca","Animalia","Arthropoda","Malacostraca","Decapoda","Ocypodidae","Malacostraca",0.2
+"353","Cryptomya californica",353,109,1,"adults","109.1","California Softshell Clam","predacious","Cryptomya",90,"Cryptomya","Animalia","Mollusca","Bivalvia","Myida","Myidae","Bivalvia",0.2
+"354","Cryptomya californica",354,109,2,"adults","109.2","California Softshell Clam","parasitic","Cryptomya",90,"Cryptomya","Animalia","Mollusca","Bivalvia","Myida","Myidae","Bivalvia",0.2
+"355","Cryptomya californica",355,109,3,"larvae","109.3","California Softshell Clam","predacious","Cryptomya",90,"Cryptomya","Animalia","Mollusca","Bivalvia","Myida","Myidae","Bivalvia",0.2
+"356","Melampus olivaceus",356,110,1,"adults","110.1","Salt Marsh Snail","predacious","Melampus",91,"Melampus","Animalia","Mollusca","Gastropoda","Ellobiida","Ellobiidae","Gastropoda",0.2
+"357","Melampus olivaceus",357,110,2,"adults","110.2","Salt Marsh Snail","parasitic","Melampus",91,"Melampus","Animalia","Mollusca","Gastropoda","Ellobiida","Ellobiidae","Gastropoda",0.2
+"358","Cerithidea californica",358,111,1,"adults","111.1","California Horn Snail","predacious","Cerithidea",92,"Cerithidea","Animalia","Mollusca","Gastropoda","Cerithiida","Potamididae","Gastropoda",0.2
+"359","Cerithidea californica",359,111,2,"adults","111.2","California Horn Snail","parasitic","Cerithidea",92,"Cerithidea","Animalia","Mollusca","Gastropoda","Cerithiida","Potamididae","Gastropoda",0.2
+"360","Cerithidea californica",360,111,3,"adults","111.3","California Horn Snail","parasite_consumption","Cerithidea",92,"Cerithidea","Animalia","Mollusca","Gastropoda","Cerithiida","Potamididae","Gastropoda",0.2
+"361","Neotrypaea californiensis",361,112,1,"adults","112.1","Calfornia Ghost Shrimp","predacious","Neotrypaea",93,"Neotrypaea","Animalia","Arthropoda","Malacostraca","Decapoda","Callianassidae","Malacostraca",0.2
+"362","Neotrypaea californiensis",362,112,2,"adults","112.2","Calfornia Ghost Shrimp","parasitic","Neotrypaea",93,"Neotrypaea","Animalia","Arthropoda","Malacostraca","Decapoda","Callianassidae","Malacostraca",0.2
+"363","Catjartes aura",363,113,1,"adults","113.1","Turkey Vulture","parasitic","Catjartes",94,"Catjartes","Animalia","Chordata","Aves","Cathartiformes","Cathartidae","Aves",0.12
+"364","Mytilus galloprovincialis",364,114,1,"adults","114.1","Blue Mussel","predacious","Mytilus",95,"Mytilus","Animalia","Mollusca","Bivalvia","Mytilida","Mytilidae","Bivalvia",0.2
+"365","Mytilus galloprovincialis",365,114,2,"larvae","114.2","Blue Mussel","predacious","Mytilus",95,"Mytilus","Animalia","Mollusca","Bivalvia","Mytilida","Mytilidae","Bivalvia",0.2
+"366","Salicornia virginica",366,115,1,"adults","115.1","Pickleweed","predacious","Salicornia",96,"Salicornia","Plantae",NA,"Magnoliopsida","Caryophyllales","Amaranthaceae","Magnoliopsida",0.2
+"367","Distichlis spicata",367,116,1,"adults","116.1","Salt Grass","predacious","Distichlis",97,"Distichlis","Plantae",NA,"Magnoliopsida","Poales","Poaceae","Magnoliopsida",0.2
+"368","Frankenia salina",368,117,1,"adults","117.1","Alkali Heath","predacious","Frankenia",98,"Frankenia","Plantae",NA,"Magnoliopsida","Caryophyllales","Frankeniaceae","Magnoliopsida",0.2
+"369","Jaumea carnosa",369,118,1,"adults","118.1","Fleshy Jaumea","predacious","Jaumea",99,"Jaumea","Plantae",NA,"Magnoliopsida","Asterales","Asteraceae","Magnoliopsida",0.2
+"370","Limonium californicum",370,119,1,"adults","119.1","California Sea Lavender","predacious","Limonium",100,"Limonium","Plantae",NA,"Magnoliopsida","Caryophyllales","Plumbaginaceae","Magnoliopsida",0.2
+"371","Monanthocloe littoralis",371,120,1,"adults","120.1","Shore Grass","predacious","Monanthocloe",101,"Monanthocloe","Plantae","Tracheophyta","Liliopsida","Poales","Poaceae","Liliopsida",0.2
+"372","Cordylanthus maritimus",372,121,1,"adults","121.1","Salt Marsh Bird's Beak","predacious","Cordylanthus",102,"Cordylanthus","Plantae",NA,"Magnoliopsida","Lamiales","Orobanchaceae","Magnoliopsida",0.2
+"373","Cuscuta salina",373,122,1,"adults","122.1","Dodder","parasite_consumption","Cuscuta",103,"Cuscuta","Plantae",NA,"Magnoliopsida","Solanales","Convolvulaceae","Magnoliopsida",0.2
